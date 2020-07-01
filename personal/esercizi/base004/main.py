@@ -30,6 +30,6 @@ if y != x:
 
 # 3
 if y != x:
-	if y < x:
+	if y > x:
 		print(x + " fa schifo!")
 		print(y + " fa schifo!")
