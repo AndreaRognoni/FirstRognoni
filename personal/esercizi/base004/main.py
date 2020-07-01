@@ -2,7 +2,7 @@
 # commento(#) a una riga soltanto
 # dichiaro due variabili che non hanno bisogno di comandi
 # vengono create nel momento in cui gli assegno la stringa
-x = "McDonald"
+x = "McRognoni"
 y = "Burger King"
 
 # indentazione normale
