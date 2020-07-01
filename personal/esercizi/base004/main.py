@@ -20,7 +20,7 @@ if x > y:
 	print(y + " fa schifo!")
 	
 # 2
-if x != y:
+if x == y:
 															print(x + " fa schifo!")
 															
 if y != x:
