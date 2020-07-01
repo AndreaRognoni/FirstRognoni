@@ -2,8 +2,8 @@
 # commento(#) a una riga soltanto
 # dichiaro due variabili che non hanno bisogno di comandi
 # vengono create nel momento in cui gli assegno la stringa
-x = "McDonald"
-y = "Burger King"
+x = "nike"
+y = "adidas"
 
 # indentazione normale
 print(1234567890)
