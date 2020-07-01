@@ -17,7 +17,7 @@ le righe di codice in uno stesso costrutto devono trovarsi tutte sulla stessa co
 """
 # 1
 if x > y:	
-	print(y + " fa schifo!")
+	print(y + " è bellissimo!")
 	
 # 2
 if x == y:
